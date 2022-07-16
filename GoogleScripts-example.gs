@@ -5,7 +5,7 @@
 // Adaptado por Carol X. (carolinex@gmail.com)
 
 // Adicione o ID da sua planilha aqui
-var SS = SpreadsheetApp.openById('1PUruN8YWo-CzBW9lJvt4FRE3-PSvb06xQhwhdAy3jHI');
+var SS = SpreadsheetApp.openById('INSIRA SEU ID');
 var str = "";
 
 function doPost(e) {
